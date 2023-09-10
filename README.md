@@ -10,7 +10,7 @@ Nodejs, Express, MongoDB, Mongoose, Passport, EJS, HTML, CSS, JavaScript, Bootst
 
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/devdeepak06/NodeJs-Authentication`
+1. Clone the repository: `git clone https://github.com/Aniljnv27/Nodejs_Authentication_systme.git`
 2. Install the dependencies: `npm install`
 3. Start the server: `npm start`
 4. Visit the app: `http://localhost:10000`
@@ -18,7 +18,7 @@ Nodejs, Express, MongoDB, Mongoose, Passport, EJS, HTML, CSS, JavaScript, Bootst
 ## Live Demo
 https://nodejs-authentication-sdhz.onrender.com
 ## Author
-Deepak Kumar
+Anil
 
 ## Folder Structure
 
