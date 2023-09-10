@@ -3,6 +3,9 @@
     height: 100px;
     border-radius: 40%;
 }
+body{
+    background-color: rgb(212, 136, 202);
+}
 
 .img-div {
     text-align: center;
@@ -10,10 +13,10 @@
 
 .form {
     margin-top: 50px;
-    width: 40%;
+    width: 60%;
     text-align: center;
     padding: 3px;
-    background-color: rgba(11, 224, 114, 0.762);
+    background-color: rgba(71, 218, 71, 0.762);
     padding-bottom: 3px;
     border-radius: 6px;
     box-shadow: 0px 0px 2px 1px grey;
@@ -46,7 +49,7 @@
 }
 
 .btn {
-    width: 75%;
+    width: 40%;
     padding: 12px;
     color: white;
     background-color: rgb(64, 112, 244);
@@ -66,5 +69,6 @@
 }
 
 .btn:hover {
-    background-color: rgb(45, 98, 245);
+    color: white;
+    background-color: rgb(25, 52, 129);
 }

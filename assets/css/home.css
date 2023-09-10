@@ -3,9 +3,10 @@
     justify-content: center;
     align-items: center;
     margin-top: 80px;
-    width: 80vw;
+    width: 60vw;
     height: 50vh;
-    background: lightblue;
+    background: rgb(201, 123, 224);
+    
     margin: auto;
 }
 
@@ -15,4 +16,5 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: rgb(247, 208, 182);
 }

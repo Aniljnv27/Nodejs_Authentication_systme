@@ -1,11 +1,12 @@
 body {
-    background-color: rgb(64, 112, 244);
+    background-color: rgb(140, 105, 185);
 }
 
+
 .signupContainer {
-    width: 40%;
-    background-color: whitesmoke;
-    border-radius: 10px;
+    width: 60%;
+    background-color: rgb(189, 233, 176);
+    border-radius: 6px;
     margin: auto;
     margin-top: 30px;
     display: flex;
@@ -41,10 +42,10 @@ body {
 }
 
 .btn {
-    width: 75%;
+    width: 50%;
     padding: 12px;
     color: white;
-    background-color: rgb(64, 112, 244);
+    background-color: rgb(53, 101, 235);
     border: none;
     border-radius: 6px;
     margin: auto;
@@ -55,7 +56,8 @@ body {
 }
 
 .btn:hover {
-    background-color: rgb(45, 98, 245);
+    color: white;
+    background-color: rgb(24, 54, 138);
 }
 
 .hr {
@@ -86,10 +88,10 @@ body {
 }
 
 .gbtn {
-    background-color: rgb(252, 206, 146);
+    background-color: rgb(224, 123, 123);
     display: flex;
     align-items: center;
-    width: 75%;
+    width: 50%;
     border-radius: 6px;
     padding: 8px;
     border: 1px solid goldenrod;
